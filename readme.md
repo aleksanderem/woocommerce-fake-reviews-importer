@@ -1,7 +1,10 @@
 # WooCommerce Review Importer and Reply System Documentation
 
 ### Author: Alex Miesak 
+
 ## Overview
+
+![2024-08-16 09](https://github.com/user-attachments/assets/9bc86a49-93a7-4dc7-b647-67fe9d69a90d)
 
 This documentation outlines the usage of a custom Python script designed to automate the process of importing reviews into WooCommerce products and replying to those reviews using a custom REST API endpoint. The system consists of two main components:
 
